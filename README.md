@@ -1,1 +1,1 @@
-# Machine_Learning_Music_Generation
+# Machine_Learning_Music_Generation_Notes
